@@ -1,0 +1,6 @@
+/cpproman
+cpproman
+*.o
+*.exe
+*.dSYM/
+.DS_Store
